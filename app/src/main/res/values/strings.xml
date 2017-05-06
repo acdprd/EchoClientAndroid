@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EchoClientAndroid</string>
+    <string name="sendButton">send</string>
+</resources>
